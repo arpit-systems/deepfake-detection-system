@@ -46,7 +46,7 @@ An end-to-end Machine Learning web application built using Streamlit that allows
 
 ## 🔗 Links
 - GitHub Repository: https://github.com/arpit-systems/deepfake-detection-system
-- Live Application: (Will be added after deployment)
+- Live Application: https://deepfake-arpit.streamlit.app
 
 ---
 
