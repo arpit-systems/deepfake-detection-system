@@ -25,5 +25,8 @@ This is a Machine Learning-based web application built using Streamlit that pred
 - Works only if dataset contains 'is_deepfake' column
 - Otherwise, only data preview is shown
 
+## 📸 Screenshot
+![App Screenshot](screenshot.png)
+
 ## 👨‍💻 Author
 Arpit Sharma
